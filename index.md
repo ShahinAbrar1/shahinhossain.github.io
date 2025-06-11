@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="text-align:center; margin-top: 2em;">
-  <img src="/assets/images/avatar.jpg" alt="Professor Shahin Hossain" style="border-radius: 50%; width:180px; margin-bottom:20px;">
+  <img src="/assets/images/shahin-hossain.jpg" alt="Professor Shahin Hossain" style="border-radius: 50%; width:180px; margin-bottom:20px; box-shadow:0 4px 16px rgba(0,0,0,0.08);">
   <h1 style="font-size:2.5em; margin-bottom:0.2em;">Professor Shahin Hossain</h1>
   <h3 style="font-weight:400; margin-bottom:1.5em;">Researcher • Educator • AI & Education Thought Leader</h3>
   <a href="/book/" style="background:#0056b3; color:#fff; padding:12px 30px; border-radius:8px; text-decoration:none; font-size:1.15em; font-weight:bold; margin-right:10px;">Book Me</a>

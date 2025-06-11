@@ -1,10 +1,14 @@
 ---
-layout: home
-title: Welcome
+layout: landing
+title: "Shahin Hossain"
+hero:
+  image: /assets/images/avatar.jpg      # path to your headshot
+  headline: "Researcher • Educator • AI & Education Thought Leader"
+  background: "#1a202c"                # dark overlay color—you can choose another
+  cta:
+    - text: "Book a Session"
+      url: "/book/"
 ---
 
-👋 Hello! I’m **Professor Shahin Hossain**, a researcher, educator, and thought leader in AI and education.
-
-- 🔍 Explore my work
-- 🎙️ [Book a Meeting](https://shahinhossain.com/book/)
-- 📬 Contact: [contact@shahinhossain.com](mailto:contact@shahinhossain.com)
+Welcome! I’m Professor Shahin Hossain.  
+I investigate how AI can transform teaching and learning—explore my research, teaching, consulting, and thought leadership below, or click “Book a Session” to schedule time with me.

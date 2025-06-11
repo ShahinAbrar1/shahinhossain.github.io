@@ -1,59 +1,21 @@
-# ───────────────────────────────────────────────────────────────────────────────
-# Minimal Mistakes Theme + Site Metadata for Shahin Hossain
-# ───────────────────────────────────────────────────────────────────────────────
+# Theme configuration with pinned compatible version to avoid include_cached error
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# 1) Pull in Minimal Mistakes
-remote_theme: mmistakes/minimal-mistakes
-
-# 2) Plugins Minimal Mistakes uses
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-archives
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-
-# 3) Core Site Settings
-title:       "Shahin Hossain"
-description: "Researcher • Educator • AI & Education Thought Leader"
-# Your GitHub Pages URL or custom domain:
-url:         "https://shahinhossain.github.io"
-baseurl:     ""               # leave blank if none
-lang:        en
-timezone:    America/New_York
-
-# 4) Author / Profile Info
-author:
-  name:   "Shahin Hossain"
-  avatar: "/assets/images/avatar.jpg"    # put your headshot here
-  bio:    "Researcher, educator, and thought leader in AI for education."
-  email:  "contact@shahinhossain.com"
-  links:
-    - label: "Email"
-      icon:  "fas fa-envelope"
-      url:   "mailto:contact@shahinhossain.com"
-    - label: "GitHub"
-      icon:  "fab fa-github"
-      url:   "https://github.com/ShahinAbrar1"
-    - label: "LinkedIn"
-      icon:  "fab fa-linkedin"
-      url:   "https://www.linkedin.com/in/shahinhossain"
-
-# 5) SEO / Social Preview Defaults (minimal)
+# SEO settings
 seo:
   title:       "Shahin Hossain"
   description: "Researcher • Educator • AI & Education Thought Leader"
-  # og_image:   "/assets/images/social-preview.png"    # uncomment when you add one
+  # og_image:   "/assets/images/social-preview.png"  # Uncomment and add image when ready
 
-# 6) Optional Analytics (fill in when ready)
+# Analytics placeholder - add your Google Analytics ID here when ready
 analytics:
   google:
-    id: ""          # UA-XXXXX-X or G-XXXXXXXXXX
+    id: ""  # e.g., UA-XXXXX-X or G-XXXXXXXXXX
 
-# 7) Page defaults
+# Page layout defaults
 defaults:
   - scope:
-      path: ""      # all files
+      path: ""      # Applies to all posts
       type: posts
     values:
       layout: single
@@ -63,18 +25,37 @@ defaults:
     values:
       layout: single
 
-# 8) Build Settings
-markdown:      kramdown
-highlighter:   rouge
-permalink:     /:categories/:title/
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
 
-# 9) Exclude from build
+# Exclude unnecessary files and folders from build
 exclude:
   - node_modules
   - vendor
   - README.md
   - LICENSE
 
-# ───────────────────────────────────────────────────────────────────────────────
-# End of config
-# ───────────────────────────────────────────────────────────────────────────────
+# Enable incremental build for faster local development (optional)
+incremental: false
+
+# GitHub Pages settings
+github:
+  is_project_page: false
+  repository_url: "https://github.com/ShahinAbrar1/shahinhossain.github.io"
+
+# Other helpful configurations
+timezone: "America/New_York"  # Adjust if necessary for your locale
+
+# Plugins supported by GitHub Pages (do not add unsupported plugins here)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate
+
+# ----------------------------------------------
+# End of enhanced config
+# ----------------------------------------------

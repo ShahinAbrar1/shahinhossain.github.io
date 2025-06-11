@@ -1,61 +1,40 @@
-# Theme configuration with pinned compatible version to avoid include_cached error
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# SEO settings
-seo:
-  title:       "Shahin Hossain"
-  description: "Researcher • Educator • AI & Education Thought Leader"
-  # og_image:   "/assets/images/social-preview.png"  # Uncomment and add image when ready
+title: "Shahin Hossain"
+description: "Researcher • Educator • AI & Education Thought Leader"
+url: "https://shahinhossain.com"
+baseurl: ""
 
-# Analytics placeholder - add your Google Analytics ID here when ready
+theme: jekyll-theme-chirpy
+
+# Navigation data file
+navigation_data: _data/navigation.yml
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Analytics placeholder
 analytics:
   google:
-    id: ""  # e.g., UA-XXXXX-X or G-XXXXXXXXXX
+    id: ""
 
-# Page layout defaults
-defaults:
-  - scope:
-      path: ""      # Applies to all posts
-      type: posts
-    values:
-      layout: single
-  - scope:
-      path: ""      
-      type: pages
-    values:
-      layout: single
+# Author info for footer or other uses
+author:
+  name: "Shahin Hossain"
+  linkedin: "https://www.linkedin.com/in/shahin-hossain-82a02599/"
 
-# Build settings
+# Markdown & Syntax highlighting
 markdown: kramdown
 highlighter: rouge
-permalink: /:categories/:title/
 
-# Exclude unnecessary files and folders from build
+# Permalinks
+permalink: /:title/
+
+# Exclude folders not needed
 exclude:
   - node_modules
   - vendor
   - README.md
   - LICENSE
-
-# Enable incremental build for faster local development (optional)
-incremental: false
-
-# GitHub Pages settings
-github:
-  is_project_page: false
-  repository_url: "https://github.com/ShahinAbrar1/shahinhossain.github.io"
-
-# Other helpful configurations
-timezone: "America/New_York"  # Adjust if necessary for your locale
-
-# Plugins supported by GitHub Pages (do not add unsupported plugins here)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-paginate
-
-# ----------------------------------------------
-# End of enhanced config
-# ----------------------------------------------

@@ -1,14 +1,12 @@
+
 ---
-layout: landing
-title: "Shahin Hossain"
-hero:
-  image: /assets/images/avatar.jpg      # path to your headshot
-  headline: "Researcher • Educator • AI & Education Thought Leader"
-  background: "#1a202c"                # dark overlay color—you can choose another
-  cta:
-    - text: "Book a Session"
-      url: "/book/"
+layout: home
+title: Home
+permalink: /
 ---
 
-Welcome! I’m Professor Shahin Hossain.  
-I investigate how AI can transform teaching and learning—explore my research, teaching, consulting, and thought leadership below, or click “Book a Session” to schedule time with me.
+# Shahin Hossain
+
+**Researcher • Educator • AI & Education Thought Leader**
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shahin-hossain-82a02599/)  

@@ -34,6 +34,7 @@ highlighter: rouge
 permalink: /:title/
 
 # Exclude folders not needed
+repo: ""
 exclude:
   - node_modules
   - vendor

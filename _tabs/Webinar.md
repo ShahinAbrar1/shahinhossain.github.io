@@ -1,7 +1,7 @@
 ---
 title: Webinar
 icon: fas fa-video
-order: 8
+order: 3
 ---
 
 # Webinars

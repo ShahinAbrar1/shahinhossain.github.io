@@ -1,7 +1,7 @@
 ---
 title: Media
 icon: fas fa-camera
-order: 5
+order: 6
 ---
 
 # Media & Press

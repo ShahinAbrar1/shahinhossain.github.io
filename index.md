@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "contact@shahinhossain.com"
+title: "Shahin Hossain"
 permalink: /
 ---
 

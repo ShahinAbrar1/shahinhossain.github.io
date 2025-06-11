@@ -1,3 +1,4 @@
+
 main:
   - title: About
     url: /about/
@@ -7,6 +8,8 @@ main:
     url: /consulting/
   - title: Publications
     url: /publications/
+  - title: Podcast
+    url: /podcast/
   - title: Media
     url: /media/
   - title: Book Now

@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Speaking"
     url: /speaking/
+  - title: "Webinar"
+    url: /webinar/
   - title: "Consulting"
     url: /consulting/
   - title: "Publications"

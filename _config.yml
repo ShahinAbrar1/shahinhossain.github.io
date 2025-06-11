@@ -16,7 +16,10 @@ plugins:
 # Analytics placeholder
 analytics:
   google:
-    id: ""
+    id: "G-5KKHS386WV"
+
+#logo
+logo: /assets/images/logo.png
 
 # Author info for footer or other uses
 author:

@@ -1,5 +1,16 @@
-- title: "Home"
-  url: /
+main:
+  - title: About
+    url: /about/
+  - title: Speaking
+    url: /speaking/
+  - title: Consulting
+    url: /consulting/
+  - title: Publications
+    url: /publications/
+  - title: Media
+    url: /media/
+  - title: Book Now
+    url: /book/
+  - title: Contact
+    url: /contact/
 
-- title: "Book Me"
-  url: /book/

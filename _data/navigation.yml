@@ -1,17 +1,15 @@
 main:
-  - title: About
+  - title: "About"
     url: /about/
-  - title: Speaking
+  - title: "Speaking"
     url: /speaking/
-  - title: Consulting
+  - title: "Consulting"
     url: /consulting/
-  - title: Publications
+  - title: "Publications"
     url: /publications/
-  - title: Media
+  - title: "Media"
     url: /media/
-  - title: Book Now
+  - title: "Book Now"
     url: /book/
-  - title: Contact
+  - title: "Contact"
     url: /contact/
-- title: Podcast
-  url: /podcast/

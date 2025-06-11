@@ -4,9 +4,6 @@ description: "Researcher • Educator • AI & Education Thought Leader"
 url: "https://shahinhossain.com"
 baseurl: ""
 
-# Navigation data file
-navigation_data: _data/navigation.yml
-
 # Plugins
 plugins:
   - jekyll-feed
@@ -31,7 +28,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Permalinks
-permalink: /:title/
+permalink: pretty
 
 # Exclude folders not needed
 repo: ""

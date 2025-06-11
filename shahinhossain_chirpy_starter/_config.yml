@@ -1,0 +1,40 @@
+
+title: "Shahin Hossain"
+description: "Researcher • Educator • AI & Education Thought Leader"
+url: "https://shahinhossain.com"
+baseurl: ""
+
+theme: jekyll-theme-chirpy
+
+# Navigation data file
+navigation_data: _data/navigation.yml
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Analytics placeholder
+analytics:
+  google:
+    id: ""
+
+# Author info for footer or other uses
+author:
+  name: "Shahin Hossain"
+  linkedin: "https://www.linkedin.com/in/shahin-hossain-82a02599/"
+
+# Markdown & Syntax highlighting
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: /:title/
+
+# Exclude folders not needed
+exclude:
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE

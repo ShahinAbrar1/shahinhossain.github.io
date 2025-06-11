@@ -23,5 +23,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: main     # <--- This line added here
+          publish_branch: gh-pages    # CHANGE this to gh-pages (not main)
           publish_dir: ./_site
+

@@ -46,4 +46,4 @@ excerpt: >
 ---
 
 #### **Let’s Connect**
-- [LinkedIn](https://https://www.linkedin.com/in/shahin-hossain-82a02599) &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLmV0f8AAAAJ&hl=en&oi=sra) &nbsp;|&nbsp; [Email](mailto:shahinh1@umbc.edu)
+- [LinkedIn](https://www.linkedin.com/in/shahin-hossain-82a02599) &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=cLmV0f8AAAAJ&hl=en&oi=sra) &nbsp;|&nbsp; [Email](mailto:shahinh1@umbc.edu)

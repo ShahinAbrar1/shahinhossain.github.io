@@ -1,39 +1,35 @@
-
-title: "Shahin Hossain"
-description: "Researcher • Educator • AI & Education Thought Leader"
-url: "https://shahinhossain.com"
+title: "Professor Shahin Hossain"
+email: "contact@shahinhossain.com"
+description: "PhD Candidate | AI in Education | Researcher | Speaker"
 baseurl: ""
+url: "https://shahinhossain.com"
+theme: chirpy
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Analytics placeholder
-analytics:
-  google:
-    id: "G-5KKHS386WV"
-
-#logo
-logo: /assets/images/logo.png
-
-# Author info for footer or other uses
 author:
   name: "Shahin Hossain"
-  linkedin: "https://www.linkedin.com/in/shahin-hossain-82a02599/"
+  avatar: "/assets/images/shahin-hossain.jpg"
 
-# Markdown & Syntax highlighting
-markdown: kramdown
-highlighter: rouge
+github_username: "ShahinAbrar1"
+linkedin_username: "shahinhossain"
 
-# Permalinks
-permalink: pretty
+# Navigation (fallback if pages.yml fails)
+nav:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Media"
+    url: /media/
+  - title: "Book"
+    url: /book/
+  - title: "Webinar"
+    url: /webinar/
+  - title: "Contact"
+    url: /contact/
 
-# Exclude folders not needed
-repo: ""
-exclude:
-  - node_modules
-  - vendor
-  - README.md
-  - LICENSE

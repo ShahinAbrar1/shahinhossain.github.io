@@ -36,7 +36,7 @@ excerpt: >
 
 ---
 
-> “Advancing education through the ethical and innovative use of AI. Championing equity, critical pedagogy, and next-generation learning.”
+> Advancing education through the ethical and innovative use of AI. Championing equity, critical pedagogy, and next-generation learning.
 
 ---
 

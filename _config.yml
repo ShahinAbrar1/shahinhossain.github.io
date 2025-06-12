@@ -3,7 +3,7 @@ email: "contact@shahinhossain.com"
 description: "PhD Candidate | AI in Education | Researcher | Speaker"
 baseurl: ""
 url: "https://shahinhossain.com"
-theme: chirpy
+theme: minimal-mistakes-jekyll
 
 author:
   name: "Shahin Hossain"

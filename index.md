@@ -1,4 +1,3 @@
----
 layout: splash
 title: "Professor Shahin Hossain"
 header:
@@ -7,11 +6,11 @@ header:
   caption: "PhD Candidate | Researcher | Speaker"
   actions:
     - label: "About Me"
-      url: "/about/"
+      url: "/https://www.linkedin.com/in/shahin-hossain-82a02599//"
     - label: "Download CV"
       url: "https://tinyurl.com/yukh9dpz"
     - label: "Contact"
-      url: "/https://calendly.com/shahinh1/meeting-shahin/"
+      url: "https://calendly.com/shahinh1/meeting-shahin/"
 excerpt: >
   <span style="font-size:1.3em; color:#2196f3;"><b>Transforming Education Through AI & Critical Theory</b></span>
   <br>

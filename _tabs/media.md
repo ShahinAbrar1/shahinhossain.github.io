@@ -1,17 +1,13 @@
 ---
-title: Media
-icon: fas fa-camera
-order: 6
+layout: page
+title: "Media"
+permalink: /media/
 ---
 
-# Media & Press
+### Featured In
 
-Featured in:
+- **The Baltimore Sun**: ["AI in Maryland Classrooms"](https://www.example.com)
+- **Podcast: Teaching Tomorrow** — "Equity in EdTech"
+- **Columbia University Panelist**: “Critical AI in Higher Ed”
 
-- The Chronicle of Higher Education
-- EdSurge
-- Maryland Public Television
-
-> “Dr. Hossain’s insights are essential for any leader navigating the future of education.”
->  
-> **– Dr. XYZ, University of ABC**
+*For interviews or commentary, [contact me](mailto:shahinh1@umbc.edu).*

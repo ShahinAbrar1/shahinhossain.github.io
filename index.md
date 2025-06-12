@@ -9,9 +9,9 @@ header:
     - label: "About Me"
       url: "/about/"
     - label: "Download CV"
-      url: "/cv/"
+      url: "https://tinyurl.com/yukh9dpz"
     - label: "Contact"
-      url: "/contact/"
+      url: "/https://calendly.com/shahinh1/meeting-shahin/"
 excerpt: >
   <span style="font-size:1.3em; color:#2196f3;"><b>Transforming Education Through AI & Critical Theory</b></span>
   <br>
@@ -41,7 +41,7 @@ excerpt: >
 ---
 
 ### **Recent Media & Awards**
-- 🏆 AERA Poster Award | 📰 The Baltimore Sun Feature | 🎤 Columbia University Speaker
+- 🏆 AERA Poster Award | 📰 The Insighta Feature | 🎤 Columbia University Speaker
 
 ---
 

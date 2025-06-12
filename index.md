@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Dr. Shahin Hossain"
+title: "Shahin Hossain"
 permalink: /
 author_profile: true
 ---

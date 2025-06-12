@@ -1,16 +1,22 @@
 ---
-title: Webinar
-icon: fas fa-video
-order: 3
+layout: page
+title: "Webinars"
+permalink: /webinars/
 ---
 
-# Webinars
+### Upcoming Webinars
 
-Upcoming and past webinars hosted by Professor Shahin Hossain.
+- **AI Literacy for Educators**  
+  July 2025 | Register [here](#)
 
-**Next Event:**  
-AI for Educational Leaders – July 15, 2025. [Register Now](#)
+- **Demystifying Large Language Models**  
+  August 2025 | Register [here](#)
 
-**Past Webinars:**
-- Building AI Literacy (March 2025)
-- Advancing Equity through EdTech (January 2025)
+---
+
+### Past Events
+
+- "Democratic Transformation and AI in Bangladesh"  
+  April 2025 | Columbia University
+- "AI & Assessment in Higher Education"  
+  March 2025 | AERA Annual Meeting

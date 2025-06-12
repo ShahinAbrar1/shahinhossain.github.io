@@ -8,28 +8,3 @@ theme: minimal-mistakes-jekyll
 author:
   name: "Shahin Hossain"
   avatar: "/assets/images/shahin-hossain.jpg"
-
-github_username: "ShahinAbrar1"
-linkedin_username: "shahinhossain"
-
-# Navigation (fallback if pages.yml fails)
-nav:
-  - title: "About"
-    url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Publications"
-    url: /publications/
-  - title: "Speaking"
-    url: /speaking/
-  - title: "Consulting"
-    url: /consulting/
-  - title: "Media"
-    url: /media/
-  - title: "Book"
-    url: /book/
-  - title: "Webinar"
-    url: /webinar/
-  - title: "Contact"
-    url: /contact/
-

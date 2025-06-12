@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: "Professor Shahin Hossain, PhD (expected)"
+title: "Shahin Hossain, PhD"
 header:
-  overlay_image: /assets/images/IMG_5564.jpg.jpg
+  overlay_image: /assets/images/IMG_5564.jpg
   overlay_filter: 0.2
   caption: "AI in Education | Keynote Speaker | Media Contributor"
   actions:

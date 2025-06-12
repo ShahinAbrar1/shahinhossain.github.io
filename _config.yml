@@ -1,12 +1,15 @@
 navigation:
   - title: "About"
     url: /about/
-  - title: "CV"
-    url: /cv/
   - title: "Publications"
     url: /publications/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Media"
+    url: /media/
+  - title: "Webinars"
+    url: /webinars/
   - title: "Contact"
     url: /contact/
-footer:
-  links: []
-  content: ""

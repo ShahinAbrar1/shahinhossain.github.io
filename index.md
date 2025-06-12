@@ -41,7 +41,7 @@ excerpt: >
 ---
 
 ### **As Seen In**
-<img src="/assets/images/baltimore-sun-logo.png" height="38" style="margin:0 10px;">
-<img src="/assets/images/aera-logo.png" height="38" style="margin:0 10px;">
-<img src="/assets/images/columbia-logo.png" height="38" style="margin:0 10px;">
+<img src="/assets/images/IMG_5564.jpg" height="38" style="margin:0 10px;">
+<img src="/assets/images/IMG_6480.jpg" height="38" style="margin:0 10px;">
+<img src="/assets/images/IMG_4876.jpg" height="38" style="margin:0 10px;">
 <span style="font-size:0.9em; color: #888;">& many more…</span>

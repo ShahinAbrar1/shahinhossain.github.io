@@ -1,10 +1,9 @@
-title: "Professor Shahin Hossain"
-email: "contact@shahinhossain.com"
-description: "PhD Candidate | AI in Education | Researcher | Speaker"
-baseurl: ""
-url: "https://shahinhossain.com"
-theme: minimal-mistakes-jekyll
-
-author:
-  name: "Shahin Hossain"
-  avatar: "/assets/images/shahin-hossain.jpg"
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/

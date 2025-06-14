@@ -62,12 +62,10 @@ excerpt: |
 ### 🏅 <span style="color:#1976d2;font-weight:700;">Major Honors & Awards</span>
 - AERA IPRG Poster Award (2024)
 - TALLER Creativity & Originality in Educational Research Award (2024)
-- National Dissertation Fellowship Finalist (2025)
-- UMBC Graduate Research Award (2023)
-- The Insighta “AI Leadership in Education” Honoree (2024)
-- Best Paper Award, International AI in Education Conference (2023)
+- Dean's Dissertation Fellowship Award (2025)
+- UMBC Graduate Research Award (2024)
 - Outstanding Graduate Mentor, UMBC (2023)
-- Research Impact Award, AMEBA (2024)
+- Future Leaders Progrsm: Season 2 Winner (2016)
 
 ---
 
@@ -84,18 +82,18 @@ excerpt: |
 ---
 
 ### 🎤 <span style="color:#1976d2;font-weight:700;">Invited Talks, Keynotes & Conferences</span>
-- Invited Keynote: Columbia University AI in Education Summit (2025)
-- Speaker: AERA Annual Meeting (2024, 2025)
+- Invited Speaker: Columbia University AI in Education Summit (2025)
+- Presenter: AERA Annual Meeting (2023, 2024, 2025)
 - Panelist: UNESCO Global EdTech Forum (2024)
-- Featured Presenter: OECD AI & Skills Symposium (2025)
-- Workshop Lead: MIT Computational Literacy Conference (2024)
+- Featured Presenter: Maryland AI in Education Summit (2025)
+- Workshop Lead: Common Ground Maryland (2025)
 - International Speaker: Bangladesh Digital Transformation Summit (2024)
 
 ---
 
 ### 📚 <span style="color:#1976d2;font-weight:700;">Recent Publications & Media</span>
-- “The Role of Large Language Models in Academic Writing: Challenges and Opportunities” – *Computers & Education* (2025)
-- “AI for Equity: Reimagining Access and Inclusion in Higher Education” – *Educational Researcher* (2024)
+- “The Role of Large Language Models in Academic Writing: Challenges and Opportunities” – *Computers & Education* (Submitted)
+- “AI for Equity: Reimagining Access and Inclusion in Higher Education” – *Educational Researcher* (Submitted)
 - [AERA Poster Award Winner](#) (2024): “Measuring College Students’ Reliance on Generative AI in Writing”
 - [The Insighta: Featured Interview](https://theinsighta.com/feature/shahin-hossain-ai-education)
 - Media Mentions: The Baltimore Sun, EdTech Digest, Times Higher Ed, Education Week
@@ -104,10 +102,10 @@ excerpt: |
 
 ### 🌐 <span style="color:#1976d2;font-weight:700;">Professional Memberships & Affiliations</span>
 - American Educational Research Association (AERA)
-- International Society for Artificial Intelligence in Education (IAIED)
+- Association for Advancing Artificial Intelligence (AAAI)
 - Association for Computational Linguistics (ACL)
 - National Association for Media Literacy Education (NAMLE)
-- Bangladesh AI Research Society (Founding Member)
+- Artificial Intelligence Education Research Collective (Founding Member)
 
 ---
 

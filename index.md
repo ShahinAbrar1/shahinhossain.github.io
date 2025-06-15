@@ -65,7 +65,7 @@ excerpt: |
 - Dean's Dissertation Fellowship Award (2025)
 - UMBC Graduate Research Award (2024)
 - Outstanding Graduate Mentor, UMBC (2023)
-- Future Leaders Progrsm: Season 2 Winner (2016)
+- Future Leaders Program: Season 2 Winner (2016)
 
 ---
 

@@ -8,6 +8,6 @@ order: 9
 
 Download Professor Shahin Hossain’s complete CV below:
 
-[**Download Full CV (PDF)**](/assets/files/Shahin_Hossain_CV.pdf)
+[**Download Full CV (PDF)**](/assets/images/cv.pdf)
 
 *For media or collaboration requests, please see the [Contact](/contact/) page.*

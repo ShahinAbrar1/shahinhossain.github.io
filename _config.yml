@@ -13,3 +13,6 @@ navigation:
     url: /webinars/
   - title: "Contact"
     url: /contact/
+  - title: "Book Now"
+    url: "https://calendly.com/shahinh1"
+    external: true

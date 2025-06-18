@@ -115,7 +115,7 @@ excerpt: |
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <a href="/book/" class="btn btn--primary" style="font-size:1.15em;font-weight:600;">Book Professor Shahin</a>
+  <a href="/https://calendly.com/shahinh1/meeting-shahin/" class="btn btn--primary" style="font-size:1.15em;font-weight:600;">Book Shahin Hossain</a>
 </div>
 
 ---

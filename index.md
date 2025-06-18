@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Professor Shahin Hossain"
+title: "Shahin Hossain"
 header:
   overlay_image: /assets/images/IMG_5564.jpg
   overlay_filter: 0.14
@@ -92,11 +92,9 @@ excerpt: |
 ---
 
 ### 📚 <span style="color:#1976d2;font-weight:700;">Recent Publications & Media</span>
-- “The Role of Large Language Models in Academic Writing: Challenges and Opportunities” – *Computers & Education* (Submitted)
-- “AI for Equity: Reimagining Access and Inclusion in Higher Education” – *Educational Researcher* (Submitted)
+- The Role of Large Language Models in Academic Writing: Challenges and Opportunities” – *Computers & Education* (Submitted)
+- AI for Equity: Reimagining Access and Inclusion in Higher Education” – *Educational Researcher* (Submitted)
 - [AERA Poster Award Winner](#) (2024): “Measuring College Students’ Reliance on Generative AI in Writing”
-- [The Insighta: Featured Interview](https://theinsighta.com/feature/shahin-hossain-ai-education)
-- Media Mentions: The Baltimore Sun, EdTech Digest, Times Higher Ed, Education Week
 
 ---
 

@@ -129,7 +129,7 @@ excerpt: |
 
 ---
 
-> <span style="font-size:1.12em;color:#1a237e;">"My mission is to make education more human, just, and inspiring through ethical AI and transformative research."</span>
+> <span style="font-size:1.12em;color:#1a237e;">My mission is to make education more human, just, and inspiring through ethical AI and transformative research.</span>
 
 ---
 

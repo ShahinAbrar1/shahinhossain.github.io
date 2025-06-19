@@ -92,8 +92,10 @@ excerpt: |
 ---
 
 ### 📚 <span style="color:#1976d2;font-weight:700;">Recent Publications & Media</span>
-- The Role of Large Language Models in Academic Writing: Challenges and Opportunities” – *Computers & Education* (Submitted)
-- AI for Equity: Reimagining Access and Inclusion in Higher Education” – *Educational Researcher* (Submitted)
+- The Role of Large Language Models in Academic Writing: Challenges and Opportunities – *Computers & Education* (Submitted)
+- AI for Equity: Reimagining Access and Inclusion in Higher Education – *Educational Researcher* (Submitted)
+- Sustainability of a dual language program during and beyond COVID-19 challenges – *International Journal of Bilingual Education and Bilingualism* (2025)
+- Challenges in Developing a Systematic Learning Process to Understanding Computational Thinking for Early Childhood Educators: A Culture-Based Study. Sage Research Methods: Doing Research Online – *SSage Research Methods Cases* (2024)
 - [AERA Poster Award Winner](#) (2024): “Measuring College Students’ Reliance on Generative AI in Writing”
 
 ---
@@ -101,6 +103,7 @@ excerpt: |
 ### 🌐 <span style="color:#1976d2;font-weight:700;">Professional Memberships & Affiliations</span>
 - American Educational Research Association (AERA)
 - Association for Advancing Artificial Intelligence (AAAI)
+- Computer Science Teachers Association (CSTA)
 - Association for Computational Linguistics (ACL)
 - National Association for Media Literacy Education (NAMLE)
 - Artificial Intelligence Education Research Collective (Founding Member)
